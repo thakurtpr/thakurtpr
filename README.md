@@ -14,7 +14,7 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 - ❤‍🔥 Colours. 
 - ⚡ Fun fact: My humor comes with logic .
 ```
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0-0Rohit-Roshan&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0-0Rohit-Roshan&bg_color=1d2a3a&color=5BCDEC&line=FF7F50&point=FFFFFF&hide_border=true)
 
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/00RohitRoshan?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/00RohitRoshan)
 
