@@ -7,7 +7,7 @@ education: ["B.tech"]
 currently_learning: ["Python", "Java","Javascript"]
 hobbies: ["Tinkering","Coding","Calisthenics"]
 ```
-```Python
+```Python <--Code Fenced-->
 - 🔭 I’m currently working on My Projects for resume . 😐
 - 🤔 I’m looking for help with ML .
 - 😄 Pronouns: He/Him .
