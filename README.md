@@ -11,7 +11,7 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 - 🔭 I’m currently working on My Projects for resume . 😐
 - 🤔 I’m looking for help with ML .
 - 😄 Pronouns: He/Him .
-- ❤‍🔥 Colours. 
+- ❤‍🔥 Love to play with Colours. 
 - ⚡ Fun fact: My humor comes with logic .
 ```
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0-0Rohit-Roshan&bg_color=1d2a3a&color=5BCDEC&line=FF7F50&point=FFFFFF&hide_border=true)
