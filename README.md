@@ -1,4 +1,4 @@
-# Hi there 👋 this is **Rohit Roshan**
+## Hi there 👋 this is **Rohit Roshan**   ![Visitor Count](https://profile-counter.glitch.me/{0-0Rohit-Roshan}/count.svg)
 ```yaml
 full name: Rohit Roshan Jena
 located_in: Odisha , India
@@ -30,7 +30,10 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
   </tr>
  </table> 
 
-[![Twitter Follow Badge](https://img.shields.io/twitter/follow/00RohitRoshan?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/00RohitRoshan)
+[![Twitter Follow Badge](https://img.shields.io/twitter/follow/00RohitRoshan?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/00RohitRoshan) 
+
+
+
 
 <!--
 **0-0Rohit-Roshan/0-0Rohit-Roshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
