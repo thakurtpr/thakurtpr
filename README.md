@@ -1,4 +1,4 @@
-## Hi there 👋 this is **Rohit Roshan**   ![Visitor Count](https://profile-counter.glitch.me/{0-0Rohit-Roshan}/count.svg)
+# Hi there 👋 this is **Rohit Roshan**
 ```yaml
 full name: Rohit Roshan Jena
 located_in: Odisha , India
@@ -11,13 +11,13 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 - 🔭 I’m currently working on My Projects for resume . 😐
 - 🤔 I’m looking for help with ML .
 - 😄 Pronouns: He/Him .
-- ❤‍🔥 Love to play with Colours. 
+- ❤‍🔥 Colours.
 - ⚡ Fun fact: My humor comes with logic .
 ```
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0-0Rohit-Roshan&bg_color=1d2a3a&color=5BCDEC&line=FF7F50&point=FFFFFF&hide_border=true)
 
-<table> 
-  <tr> 
+<table>
+  <tr>
     <td>
        <a href="https://github.com/0-0Rohit-Roshan"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0-0Rohit-Roshan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
@@ -28,11 +28,16 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
       <a href="https://github.com/0-0Rohit-Roshan"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Rohit-Roshan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   </tr>
- </table> 
+ </table>
 
-[![Twitter Follow Badge](https://img.shields.io/twitter/follow/00RohitRoshan?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/00RohitRoshan) 
-
-
+[![Twitter Follow Badge](https://img.shields.io/twitter/follow/00RohitRoshan?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/00RohitRoshan)
+```Javascript
+if(todaysWorkDone){
+	isTomorrowBright();
+}else{
+	initiateTodaysWork();
+}
+```
 
 <!--
 **0-0Rohit-Roshan/0-0Rohit-Roshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,5 +51,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: .....
 -->
