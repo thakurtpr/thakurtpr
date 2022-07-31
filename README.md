@@ -1,4 +1,4 @@
-# Hi there 👋 this is **Rohit Roshan**
+# Hi there 👋 this is **Rohit Roshan** ![Visitor Count](https://profile-counter.glitch.me/0-0Rohit-Roshan/count.svg)
 ```yaml
 full name: Rohit Roshan Jena
 located_in: Odisha , India
