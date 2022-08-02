@@ -9,7 +9,7 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 ```
 ```Python <--Code Fenced-->
 - 🔭 I’m currently working on My Projects for resume . 😐
-- 
+- 🤓 Interested in MLops
 - 🤔 I’m looking for help with ML .
 - 😄 Pronouns: He/Him .
 - ❤‍🔥 Love Colours.
