@@ -32,6 +32,8 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
  </table>
 
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/00RohitRoshan?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/00RohitRoshan)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-roshan-jena-365062241/)
+
 ```Javascript
 if(todaysWorkDone){
 	isTomorrowBright();
