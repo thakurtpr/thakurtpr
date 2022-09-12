@@ -4,6 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/I_Love_Mechatronics)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp-clone-web.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/00rohitroshan/)
+[![mail](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitroshanjena2017@gmail.com)
 ```yaml
 full name: Rohit Roshan Jena
 located_in: Odisha , India
@@ -25,12 +26,6 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0-0Rohit-Roshan&bg_color=1d2a3a&color=5BCDEC&line=FF7F50&point=FFFFFF&hide_border=true)
 
 
-![g](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0-0Rohit-Roshan&theme=vue)
-
-
-
-
-
 <table>
   <tr>
     <td>
@@ -39,11 +34,22 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
     <td>
        <a href="http://www.github.com/0-0Rohit-Roshan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0-0Rohit-Roshan&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
+  </tr>
+ </table>
+ 
+
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/0-0Rohit-Roshan"><img alt="Rohit's Github Profile summary card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0-0Rohit-Roshan&theme=vue" /></a>
+    </td>
     <td>
       <a href="https://github.com/0-0Rohit-Roshan"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Rohit-Roshan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   </tr>
  </table>
+
+
 
 
 
@@ -68,6 +74,7 @@ Work Space | ![Laptop](https://img.shields.io/badge/dell%20laptop-007DB8?style=f
 **Terminal** | ![Alacrity](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)    ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 **Virtualization** | ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)   ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
+[![Skyline](Res/Skyline.jpg)](https://skyline.github.com/0-0Rohit-Roshan/2022)
 
 
 <!--
@@ -84,3 +91,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .....
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
