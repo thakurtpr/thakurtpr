@@ -1,4 +1,7 @@
 # Hi there 👋 this is **Rohit Roshan** ![Visitor Count](https://profile-counter.glitch.me/0-0Rohit-Roshan/count.svg)
+![](https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png)
+
+### Connect with me : <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/00RohitRoshan?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/00RohitRoshan)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-roshan-jena-365062241/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/I_Love_Mechatronics)
@@ -14,7 +17,7 @@ currently_learning: ["Python", "Java","Javascript"]
 hobbies: ["Tinkering","Coding","Calisthenics"]
 ```
 ```Python <--Code Fenced-->
-- 🔭 I’m currently working on My Projects . 
+- 🔭 I’m currently working on mlflow . 
 - 🤓 Interested in MLops
 - 🤔 I’m looking for help with ML .
 - 😄 Pronouns: He/Him .
@@ -57,14 +60,6 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 
 
 
-```Javascript
-if(todaysWorkDone){
-	isTomorrowBright();
-}else{
-	initiateTodaysWork();
-}
-```
-
 
 Tools |Preference
 --|--
@@ -91,6 +86,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .....
 -->
+
+<div align="center">
+	<br>
+	<br>
+	<br>
+	<br>
+	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
+	<p>Loading</p>
+	<br>
+	<br>
+	<br>
+	<br>
+</div>
+
+
+
+
 
 
 
