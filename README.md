@@ -13,7 +13,7 @@ full name: Rohit Roshan Jena
 located_in: Odisha , India
 job: Student
 education: ["B.tech"]
-currently_learning: ["Python", "Java","Javascript"]
+currently_learning: ["Python"]
 hobbies: ["Tinkering","Coding","Calisthenics"]
 ```
 ```Python <--Code Fenced-->
