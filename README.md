@@ -26,16 +26,16 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 ```
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0-0Rohit-Roshan&bg_color=1d2a3a&color=5BCDEC&line=FF7F50&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=00RohitRoshan&bg_color=1d2a3a&color=5BCDEC&line=FF7F50&point=FFFFFF&hide_border=true)
 
 
 <table>
   <tr>
     <td>
-       <a href="https://github.com/0-0Rohit-Roshan"><img alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0-0Rohit-Roshan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+       <a href="https://github.com/00RohitRoshan"><img alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=00RohitRoshan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
     <td>
-       <a href="http://www.github.com/0-0Rohit-Roshan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0-0Rohit-Roshan&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+       <a href="http://www.github.com/0-0Rohit-Roshan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=00RohitRoshan&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
   </tr>
  </table>
@@ -44,10 +44,10 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 <table>
   <tr>
     <td>
-       <a href="https://github.com/0-0Rohit-Roshan"><img alt="Rohit's Github Profile summary card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0-0Rohit-Roshan&theme=vue" /></a>
+       <a href="https://github.com/00RohitRoshan"><img alt="Rohit's Github Profile summary card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=00RohitRoshan&theme=vue" /></a>
     </td>
     <td>
-      <a href="https://github.com/0-0Rohit-Roshan"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-0Rohit-Roshan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <a href="https://github.com/00RohitRoshan"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00RohitRoshan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   </tr>
  </table>
