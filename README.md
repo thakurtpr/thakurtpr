@@ -17,9 +17,9 @@ currently_learning: ["Python"]
 hobbies: ["Tinkering","Coding","Calisthenics"]
 ```
 ```Python <--Code Fenced-->
-- 🔭 I’m currently working on mlflow . 
-- 🤓 Interested in MLops
-- 🤔 I’m looking for help with ML .
+- 🔭 I’m currently working on Kubernetes . 
+- 🤓 Interested in Cloud .
+- 🤔 I’m looking for help with regenerating your bugs .
 - 😄 Pronouns: He/Him .
 - ❤‍🔥 Love Colours.
 - ⚡ Fun fact: My humor comes with logic .
