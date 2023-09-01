@@ -26,7 +26,7 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 ```
 
 
-[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=00RohitRoshan&theme=nord&bg_color=FFFFFF00)](https://github.com/00RohitRoshan/github-readme-activity-graph)
+[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=00RohitRoshan&theme=gotham&bg_color=FFFFFF00)](https://github.com/00RohitRoshan/github-readme-activity-graph)
 
 
 <table>
@@ -38,7 +38,7 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
        <a href="http://www.github.com/0-0Rohit-Roshan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=00RohitRoshan&stroke=ffffff&background=FFFFFF00&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
 	<td>
-       <a href="https://github.com/00RohitRoshan"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=00RohitRoshan&theme=transparent&hide_border=true" /></a>
+       <a href="https://github.com/00RohitRoshan"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00RohitRoshan&langs_count=14&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=FFFFFF00"/></a>
     </td>
   </tr>
  </table>
@@ -47,10 +47,10 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 <table>
   <tr>
     <td>
-       <a href="https://github.com/00RohitRoshan"><img alt="Rohit's Github Profile summary card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=00RohitRoshan&theme=transparent&hide_border=true" /></a>
+       <a href="https://github.com/00RohitRoshan"><img alt="Rohit's Github Profile summary card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=00RohitRoshan&theme=gotham&hide_border=true" /></a>
     </td>
     <td>
-      <a href="https://github.com/00RohitRoshan"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00RohitRoshan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=FFFFFF00"/></a>
+      <a href="https://github.com/00RohitRoshan"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=00RohitRoshan&theme=gotham&hide_border=true" /></a>
     </td>
   </tr>
  </table>
