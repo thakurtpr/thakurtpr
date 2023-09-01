@@ -13,12 +13,12 @@ full name: Rohit Roshan Jena
 located_in: Odisha , India
 job: Student
 education: ["B.tech"]
-currently_learning: ["Python"]
+currently_learning: ["React"]
 hobbies: ["Tinkering","Coding","Calisthenics"]
 ```
-```Python <--Code Fenced-->
-- 🔭 I’m currently working on Kubernetes . 
-- 🤓 Interested in Cloud .
+```js <--Code Fenced-->
+- 🔭 I’m currently working on DSA. 
+- 🤓 Interested in DSA, WebDev, Devops.
 - 🤔 I’m looking for help with regenerating your bugs .
 - 😄 Pronouns: He/Him .
 - ❤‍🔥 Love Colours.
@@ -38,7 +38,7 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
        <a href="http://www.github.com/0-0Rohit-Roshan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=00RohitRoshan&stroke=ffffff&background=FFFFFF00&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
 	<td>
-       <a href="https://github.com/00RohitRoshan"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00RohitRoshan&langs_count=14&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=FFFFFF00"/></a>
+       <a href="https://github.com/00RohitRoshan"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00RohitRoshan&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=FFFFFF00"/></a>
     </td>
   </tr>
  </table>
