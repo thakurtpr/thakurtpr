@@ -26,7 +26,7 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 ```
 
 
-[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=00RohitRoshan&theme=gotham&bg_color=FFFFFF00)](https://github.com/00RohitRoshan/github-readme-activity-graph)
+[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=00RohitRoshan&theme=gotham&bg_color=FFFFFF00)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 <table>
