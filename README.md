@@ -47,10 +47,10 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 <table>
   <tr>
     <td>
-       <a href="https://github.com/00RohitRoshan"><img alt="Rohit's Github Profile summary card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=00RohitRoshan&theme=gotham&hide_border=true" /></a>
+       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Rohit's Github Profile summary card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=00RohitRoshan&theme=gotham&hide_border=true" /></a>
     </td>
     <td>
-      <a href="https://github.com/00RohitRoshan"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=00RohitRoshan&theme=gotham&hide_border=true" /></a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=00RohitRoshan&theme=gotham&hide_border=true" /></a>
     </td>
   </tr>
  </table>
