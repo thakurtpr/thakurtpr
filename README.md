@@ -32,13 +32,13 @@ hobbies: ["Tinkering","Coding","Calisthenics"]
 <table>
   <tr>
     <td>
-       <a href="https://github.com/00RohitRoshan"><img alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=00RohitRoshan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=FFFFFF00" /></a>
+       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=00RohitRoshan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=FFFFFF00" /></a>
     </td>
     <td>
        <a href="http://www.github.com/0-0Rohit-Roshan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=00RohitRoshan&stroke=ffffff&background=FFFFFF00&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
 	<td>
-       <a href="https://github.com/00RohitRoshan"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00RohitRoshan&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=FFFFFF00"/></a>
+       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00RohitRoshan&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=FFFFFF00"/></a>
     </td>
   </tr>
  </table>
