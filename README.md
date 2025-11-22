@@ -2,23 +2,27 @@
 ![](https://github.com/vikumkbv/vikumkbv/blob/master/icons/header_.png)
 
 ### Connect with me : <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
+
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/thakurtpr?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/thakurtpr)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thakurtpr/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itsthakur_OP)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp-clone-web.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_thakur_op/)
 [![mail](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakurtpr@gmail.com)
-```yaml <--Code Fenced-->
+
+```yaml
 Full name: ["Thakur Prasad Rout"]
 Located_in: ["Odisha , India"]
 Job: ["iServeU"]
 Education: ["B.tech"]
 Hobbies: ["Dance"]
+Tech_Stack: ["Golang", "Rust", "DevOps", "Kubernetes"]
 ```
 ```js <--Code Fenced-->
-- 🔭 I’m currently working on Kubernetes. 
-- 🤓 Interested in DSA, WebDev, Devops.
-- 🤔 I’m looking for help with Devops.
+- 🔭 I’m currently working on Kubernetes & DevOps Engineering.
+- ⚙️ Passionate about Rust, Golang, Cloud, Infra & Automation.
+- 🤓 Interested in WebDev, DevOps, Cloud Native tooling.
+- 🤔 I’m looking for help with advanced DevOps & Rust tooling.
 - 😄 Pronouns: He/Him .
 - ❤‍🔥 Love Colours.
 ```
