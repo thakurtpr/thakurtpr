@@ -1,34 +1,27 @@
-### <div align="center">👨‍💻 Thakur Prasad Rout </div>
+<h1 align="center">Thakur Prasad Rout</h1>
+<h3 align="center">DevOps | Cloud Native | Rust | Golang</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/thakurtpr/count.svg" alt="Visitor Count">
-</div>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/thakurtpr/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:thakurtpr@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
+---
 
-```go
-package main
+### 🧐 About Me
+- 🔭 **Working on:** Kubernetes, DevOps Engineering, and Infrastructure.
+- ⚙️ **Tech Stack:** Rust, Golang, Cloud Native Tooling.
+- 📍 **Location:** Odisha, India.
 
-import "fmt"
+### 🛠️ Arsenal
+| Infrastructure | Languages | Tools |
+| :--- | :--- | :--- |
+| ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
-type DevProfile struct {
-    Name      string
-    Role      string
-    Company   string
-    Location  string
-    Languages []string
-    Hobbies   []string
-}
-
-func main() {
-    me := DevProfile{
-        Name:      "Thakur Prasad Rout",
-        Role:      "DevOps Engineer",
-        Company:   "iServeU",
-        Location:  "Odisha, India",
-        Languages: []string{"Golang", "Rust", "Bash"},
-        Hobbies:   []string{"Dance", "Cloud Native Tech"},
-    }
-    
-    fmt.Printf("Hello! I am %s, working on Kubernetes & Infra.", me.Name)
-}
+### 📈 Contributions
+![](https://github-readme-stats.vercel.app/api?username=thakurtpr&theme=dracula&hide_border=true&show_icons=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=thakurtpr&theme=dracula&hide_border=true)
