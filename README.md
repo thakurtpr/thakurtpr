@@ -1,8 +1,4 @@
 <div align="center">
-
-<!-- Header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header" width="100%"/>
-
 <!-- Name + Role -->
 <h1>Thakur Prasad Rout</h1>
 <h3>Platform & Site Reliability Engineer</h3>
