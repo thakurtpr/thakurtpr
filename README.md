@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- Header wave with name -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1117%2C50%3A1f3a5f%2C100%3A58a6ff&height=200&section=header&text=Thakur%20Prasad%20Rout&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Platform%20%26%20Site%20Reliability%20Engineer&descAlignY=56&descSize=18" width="100%"/>
+<!-- Header wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header" width="100%"/>
+
+<!-- Name + Role -->
+<h1>Thakur Prasad Rout</h1>
+<h3>Platform & Site Reliability Engineer</h3>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -149,6 +153,6 @@ Replaced **Apigee** in production with WASM-filtered Envoy + Cilium Gateway API 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A58a6ff%2C50%3A1f3a5f%2C100%3A0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 
 </div>
