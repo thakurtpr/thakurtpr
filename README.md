@@ -1,7 +1,6 @@
 <div align="center">
 <!-- Name + Role -->
 <h1>Thakur Prasad Rout</h1>
-<h3>Platform & Site Reliability Engineer</h3>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
